@@ -1,7 +1,7 @@
 **<h2> Hello👋, I am Paras Rajeshlal Gurkhude</h2>** 
      
 <p class="empty"><em>   
-Passionate Frontend Developer  with skills HTML, CSS, and JavaScript. Possessing solid knowledge in Python and basic data structures and algorithms (DSA). A detail-oriented and collaborative team player committed to delivering visually appealing and user-centric web experiences. Experienced with React and Chakra UI, eager to contribute technical acumen to dynamic projects and expand proficiency in emerging technologies.
+Dynamic Frontend Developer with adept skills in HTML5, CSS3, JavaScript, and React. Proficient in responsive web design and integrating frontend components with server-side APIs. Demonstrates excellence in effective communication, attention to detail, and leveraging Generative AI for innovative solutions. Quick learner of new tech stacks.
 <p>More About Masai School:  <a href="https://masaischool.com/" target="_blank"><b>Click Here</b></a></p>
 </em></p> 
   
@@ -10,7 +10,7 @@ Passionate Frontend Developer  with skills HTML, CSS, and JavaScript. Possessing
  
 - 🌱 I’m a **Frontend Engineer** 
 
-- 👨‍💻 All of my projects are available at <a href='https://paras-gurkhude-portfolio.netlify.app/' target="_blank" ><b>PortFolio</b></a>
+- 👨‍💻 All of my projects are available at <a href='[https://paras-gurkhude-portfolio.netlify.app/](https://paras-gurkhude-portfolio.netlify.app/)' target="_blank" ><b>PortFolio</b></a>
 
 - 💬 Ask me about **HTML | CSS | JavaScript | Node.js | React | Python**
 
@@ -45,6 +45,7 @@ Passionate Frontend Developer  with skills HTML, CSS, and JavaScript. Possessing
   <a href="https://github.com/ParasGurkhude">
     <img src="https://img.shields.io/badge/portfolio-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
+     
 </div>
 
 
