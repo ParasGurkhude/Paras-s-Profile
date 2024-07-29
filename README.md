@@ -12,7 +12,7 @@ Dynamic Frontend Developer with adept skills in HTML5, CSS3, JavaScript, and Rea
 
 - 👨‍💻 All of my projects are available at <a href='https://paras-gurkhude-portfolio.netlify.app' target="_blank" ><b>PortFolio</b></a>
 
-- 💬 Ask me about **HTML | CSS | JavaScript | Node.js | React | Python**
+- 💬 Ask me about **HTML | CSS | JavaScript | Node.js | React | Python | MongoDB | Express.js**
 
 - 📫 How to reach me : **[parasgurkhude@gmail.com](mailto:parasgurkhude@gmail.com) | [LinkedIn](https://www.linkedin.com/in/paras-gurkhude-123803267/?originalSubdomain=in)**
 
