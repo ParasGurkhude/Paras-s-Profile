@@ -10,7 +10,7 @@ Dynamic Frontend Developer with adept skills in HTML5, CSS3, JavaScript, and Rea
  
 - 🌱 I’m a **Frontend Engineer** 
 
-- 👨‍💻 All of my projects are available at <a href='[https://paras-gurkhude-portfolio.netlify.app/](https://paras-gurkhude-portfolio.netlify.app/)' target="_blank" ><b>PortFolio</b></a>
+- 👨‍💻 All of my projects are available at <a href='https://paras-gurkhude-portfolio.netlify.app' target="_blank" ><b>PortFolio</b></a>
 
 - 💬 Ask me about **HTML | CSS | JavaScript | Node.js | React | Python**
 
